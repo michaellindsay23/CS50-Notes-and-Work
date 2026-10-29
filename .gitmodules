@@ -1,3 +1,6 @@
 [submodule "CS50-Project-0"]
 	path = CS50-Project-0
 	url = git@github.com:michaellindsay23/CS50-Project-0.git
+[submodule "CS50-Project-1"]
+	path = CS50-Project-1
+	url = git@github.com:michaellindsay23/CS50-Project-1.git
